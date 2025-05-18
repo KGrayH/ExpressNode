@@ -1,0 +1,12 @@
+{
+  "name": "three-route-express-app",
+  "version": "1.0.0",
+  "description": "CSC 317 Homework: Three-Route Express App with Flexbox",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
